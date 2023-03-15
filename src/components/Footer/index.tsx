@@ -95,7 +95,7 @@ export const Footer = () => {
           </div>
         )}
       </Box>
-      <Box className="divider" />
+      {/* <Box className="divider" />
       <Box className="creator">
         2022 - Template created by{" "}
         <a rel="noreferrer" href="https://github.com/harini24" target="_blank">
@@ -121,7 +121,7 @@ export const Footer = () => {
             Star
           </a>
         </CustomButtonFooter>
-      </Box>
+      </Box> */}
     </FooterContainer>
   );
 };

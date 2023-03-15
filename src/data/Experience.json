@@ -1,17 +1,19 @@
 [
   {
-    "span": "Year Month -  current",
-    "company": "Google",
+    "span": "2022 -  current",
+    "company": "YvanaDance",
     "linkedIn": "https://www.linkedin.com/company/google/",
+    "instagram": "https://www.instagram.com",
     "twitter": "https://twitter.com/googleindia",
-    "location": "City, State",
+    "location": "Nairobi, Kenya",
     "progress": [
       {
-        "role": "Role Name",
-        "span": "Year Month - Current",
+        "role": "Founder and Dance Instructor",
+        "span": "2022 - Current",
         "descriptions": [
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
-          "In commodi consequatur quidem? Nemo officiis inventore praesentium hic saepe ut delectus"
+         "Teach various dance styles to students of all ages and skill levels",
+          "Develop and implement dance curriculums",
+          "Choreograph and direct dance performances"
         ]
       },
       {

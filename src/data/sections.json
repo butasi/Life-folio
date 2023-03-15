@@ -12,7 +12,7 @@
   {
     "name": "Projects",
     "key": "projects",
-    "hide":false
+    "hide":true
   },
   {
     "name": "Education",
