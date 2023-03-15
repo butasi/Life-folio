@@ -2,7 +2,7 @@ import { styled, Box, Stack, Link, Divider } from "@mui/material";
 import { StyleConstants } from "../../styles/StyleConstants";
 import Contact from "../../data/Contact.json";
 import EmailIcon from "@mui/icons-material/Email";
-import GitHubIcon from "@mui/icons-material/GitHub";
+import InstagramIcon from "@mui/icons-material/Instagram";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import { CustomButtonFooter } from "../../styles/sectionStyles";
@@ -76,7 +76,7 @@ export const Footer = () => {
         {github && (
           <div>
             <Link href={github} target="_blank" style={{ color: "black" }}>
-              <GitHubIcon />
+              <InstagramIcon />
             </Link>
           </div>
         )}

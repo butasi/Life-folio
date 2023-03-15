@@ -21,7 +21,7 @@ const IntroductionContainer = styled(Box)(({ theme }) => ({
 export const Header = () => {
   return (
     <IntroductionContainer>
-      (DANC)E - portfolio of {Constants.USERNAME}
+      (YvanaDANCE)E - portfolio of {Constants.USERNAME}
     </IntroductionContainer>
   );
 };
